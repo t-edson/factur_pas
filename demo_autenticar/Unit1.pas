@@ -41,7 +41,7 @@ implementation
 { TForm1 }
 procedure TForm1.FormCreate(Sender: TObject);
 begin
-//  {$Include 'credenciales.txt'}
+  {$Include 'credenciales.txt'}
 end;
 
 procedure TForm1.butPedirTokClick(Sender: TObject);
